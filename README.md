@@ -69,3 +69,9 @@ return rate)
 results?
 9. (Bonus :) probably) Visualization of backtest results. This could be developed further as
 an app. (If some one would like to invest us)
+
+## Back test visualization
+
+![backtest](https://github.com/BBojack/TeslaSentimentalAnalysis-/assets/42468209/451a69ce-343f-45bb-898a-89791cb84043)
+
+
